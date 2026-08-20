@@ -9,7 +9,7 @@ SmartSite memprediksi **lokasi optimal untuk membuka coffee shop baru di Bandung
 ## Demo
 
 - **Live demo (Streamlit Community Cloud):** https://smartsite-cafe-recommender-mwpbsjqsv4jklncn8v9dwa.streamlit.app/
-- **Peta interaktif (HTML):** `smartsite_peta.html`
+- **Peta interaktif (HTML):** [Lihat Peta Interaktif](https://kia-yihan677.github.io/smartsite-cafe-recommender/smartsite_peta.html)
 
 ## Hasil Utama
 
