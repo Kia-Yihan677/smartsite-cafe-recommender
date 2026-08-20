@@ -1,0 +1,9 @@
+osmnx==2.1.1
+geopandas==1.1.4
+shapely
+scikit-learn==1.6.1
+shap
+pandas
+numpy
+joblib
+streamlit
